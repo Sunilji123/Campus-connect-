@@ -1,0 +1,8 @@
+{
+  "name": "Campus Connect",
+  "description": "Connect. Learn. Grow. Together. A modern student community platform where students across colleges and universities find study \u0026 project partners, join polls, discover events, and collaborate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
